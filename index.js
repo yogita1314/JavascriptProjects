@@ -43,11 +43,6 @@ const projects = [
     url: "project9/index.html",
   },
   {
-    image: "images/p10.png",
-    title: "Drawer + Dropdown",
-    url: "project10/index.html",
-  },
-  {
     image: "images/p2.jpeg",
     title: "Github User Search App",
     url: "project2/index.html",
