@@ -6,11 +6,7 @@ const projects = [
     title: "Life Timer App",
     url: "project1/index.html",
   },
-  {
-    image: "images/p2.png",
-    title: "Github User Search App",
-    url: "project2/index.html",
-  },
+  
   {
     image: "images/p3.png",
     title: "Percentage Calculator App",
@@ -50,6 +46,11 @@ const projects = [
     image: "images/p10.png",
     title: "Drawer + Dropdown",
     url: "project10/index.html",
+  },
+  {
+    image: "images/p2.jpeg",
+    title: "Github User Search App",
+    url: "project2/index.html",
   },
 ];
 
